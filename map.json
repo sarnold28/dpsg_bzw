@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "chunksize":
+        {
+         "height":32,
+         "width":32
+        }
+    },
  "height":83,
  "infinite":false,
  "layers":[
@@ -222,6 +230,12 @@
  "nextlayerid":22,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"script",
+         "type":"string",
+         "value":"script.js"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.6.0",
  "tileheight":32,
